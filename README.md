@@ -1,4 +1,4 @@
-# 🔍 Pokémon Stalker
+# Pokémon Stalker
 
 *Gets basic info about Pokémon because why not*
 
